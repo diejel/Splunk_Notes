@@ -76,3 +76,9 @@ Splunk inputs will be config to read this file.
 - any feature of a splunk enterprise deployment.
 - Is used by a deplyment server to determine what content to deply to groups of deployment clients.
 - The fwdr mgt interfce offers an easy way to creae,edit, mng server classes.
+
+
+## Splunk Licensing
+---
+- SPlunk is licensed by the amount of data ingested per day.
+- The license server typically runs on the "_deployment server_"
